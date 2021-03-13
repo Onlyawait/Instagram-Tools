@@ -1,0 +1,11 @@
+C:\Users\Dehmy\source\repos\unSave\unSave\bin\Debug\unSave.exe.config
+C:\Users\Dehmy\source\repos\unSave\unSave\bin\Debug\unSave.exe
+C:\Users\Dehmy\source\repos\unSave\unSave\bin\Debug\unSave.pdb
+C:\Users\Dehmy\source\repos\unSave\unSave\bin\Debug\unSave.xml
+C:\Users\Dehmy\source\repos\unSave\unSave\obj\Debug\unSave.vbprojAssemblyReference.cache
+C:\Users\Dehmy\source\repos\unSave\unSave\obj\Debug\unSave.Resources.resources
+C:\Users\Dehmy\source\repos\unSave\unSave\obj\Debug\unSave.vbproj.GenerateResource.cache
+C:\Users\Dehmy\source\repos\unSave\unSave\obj\Debug\unSave.vbproj.CoreCompileInputs.cache
+C:\Users\Dehmy\source\repos\unSave\unSave\obj\Debug\unSave.exe
+C:\Users\Dehmy\source\repos\unSave\unSave\obj\Debug\unSave.xml
+C:\Users\Dehmy\source\repos\unSave\unSave\obj\Debug\unSave.pdb

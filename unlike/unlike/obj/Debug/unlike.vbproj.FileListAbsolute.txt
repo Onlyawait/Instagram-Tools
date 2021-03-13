@@ -1,0 +1,11 @@
+C:\Users\Dehmy\source\repos\unlike\unlike\bin\Debug\unlike.exe.config
+C:\Users\Dehmy\source\repos\unlike\unlike\bin\Debug\unlike.exe
+C:\Users\Dehmy\source\repos\unlike\unlike\bin\Debug\unlike.pdb
+C:\Users\Dehmy\source\repos\unlike\unlike\bin\Debug\unlike.xml
+C:\Users\Dehmy\source\repos\unlike\unlike\obj\Debug\unlike.vbprojAssemblyReference.cache
+C:\Users\Dehmy\source\repos\unlike\unlike\obj\Debug\unlike.Resources.resources
+C:\Users\Dehmy\source\repos\unlike\unlike\obj\Debug\unlike.vbproj.GenerateResource.cache
+C:\Users\Dehmy\source\repos\unlike\unlike\obj\Debug\unlike.vbproj.CoreCompileInputs.cache
+C:\Users\Dehmy\source\repos\unlike\unlike\obj\Debug\unlike.exe
+C:\Users\Dehmy\source\repos\unlike\unlike\obj\Debug\unlike.xml
+C:\Users\Dehmy\source\repos\unlike\unlike\obj\Debug\unlike.pdb
